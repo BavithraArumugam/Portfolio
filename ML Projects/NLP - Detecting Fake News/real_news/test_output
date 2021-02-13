@@ -1,0 +1,34 @@
+['Hillary', 'Trump', 'Obama', 'Immigration']
+###### Top 5 similar words in REAL-NEWS of ####
+Hillary is:
+('mrs.', 0.8328536748886108)
+('sanders', 0.6360820531845093)
+('herself', 0.6316573619842529)
+('forhillary', 0.6111156940460205)
+('madoff', 0.606376588344574)
+
+
+Trump is:
+('trumps', 0.7797152400016785)
+('businessman', 0.5793701410293579)
+('romney', 0.5762499570846558)
+('him', 0.5757936239242554)
+('cruz', 0.5430299639701843)
+
+
+Obama is:
+('obamas', 0.7029498815536499)
+('ineffectual', 0.6031263470649719)
+('netanyahu', 0.585891842842102)
+('congress', 0.5658745765686035)
+('putin', 0.5267403721809387)
+
+
+Immigration is:
+('reform', 0.7974972724914551)
+('comprehensive', 0.7620323300361633)
+('policies', 0.7384809255599976)
+('proposals', 0.7345520257949829)
+('abortion', 0.6673961281776428)
+
+

@@ -1,0 +1,34 @@
+['Hillary', 'Trump', 'Obama', 'Immigration']
+###### Top 5 similar words in FAKE-NEWS of ####
+Hillary is:
+('mrs.', 0.7888420820236206)
+('mrs', 0.7838367223739624)
+('hilary', 0.7722768783569336)
+('slog', 0.7644568681716919)
+('bill', 0.7386167049407959)
+
+
+Trump is:
+('trumps', 0.8875689506530762)
+('unsympathetic', 0.648263692855835)
+('sanders', 0.6255706548690796)
+('candidate', 0.6097100377082825)
+('republican', 0.6056820750236511)
+
+
+Obama is:
+('obamas', 0.7842732667922974)
+('bush', 0.7212618589401245)
+('barack', 0.7185149788856506)
+('president', 0.6819531917572021)
+('obamajust', 0.6787230372428894)
+
+
+Immigration is:
+('domestic', 0.8657061457633972)
+('prosperity', 0.824576735496521)
+('expansion', 0.8217387795448303)
+('treaties', 0.8138324618339539)
+('cooperation', 0.8092336654663086)
+
+
